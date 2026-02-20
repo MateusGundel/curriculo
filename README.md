@@ -2,6 +2,8 @@
 
 My professional resume built in LaTeX — clean, single-page, and easy to edit.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/mateusgundel/)
+
 ## 🛠️ How to Compile
 
 ### Prerequisites

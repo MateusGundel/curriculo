@@ -20,7 +20,7 @@
 *.vrb
 
 # Generated PDF (uncomment if you want to track it)
-# *.pdf
+*.pdf
 
 # Editor/OS files
 .DS_Store
